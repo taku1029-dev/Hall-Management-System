@@ -1,0 +1,3 @@
+username1|55|+6001234567|Healthy
+username2|23|+6001234234|Blocked
+username3|44|+6001231234|Healthy

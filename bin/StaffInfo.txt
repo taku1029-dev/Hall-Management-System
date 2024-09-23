@@ -1,0 +1,3 @@
+staff1|name1|55|+60012332|Japan
+staff2|name2|35|+6001234567|Malaysia
+staff3|name3|25|+600124567|China
