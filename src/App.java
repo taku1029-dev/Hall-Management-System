@@ -1,11 +1,10 @@
-import LoginSystem.IDandPasswords;
+import LoginSystem.UserInfo;
+import LoginSystem.CustomerInfo;
 import LoginSystem.LoginPage;  
 
 public class App {
     public static void main(String[] args) throws Exception {
-        IDandPasswords idandPasswords = new IDandPasswords();
-
-        LoginPage loginPage = new LoginPage(idandPasswords.getLogininfo());
-
+        CustomerInfo customerInfo = new CustomerInfo();
+        customerInfo.test();
     }
 }

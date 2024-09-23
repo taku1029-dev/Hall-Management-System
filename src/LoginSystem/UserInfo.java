@@ -23,7 +23,5 @@ public abstract class UserInfo {
     private int[][] idandPass;
 
     // public abstract int[][] getLoginInfo();
-    public void test() {
-        System.out.println("UserInfo Class");
-    }
+    public abstract void test();
 }
