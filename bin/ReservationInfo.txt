@@ -1,0 +1,3 @@
+Hall1|StartDate|EndDate|StartTime|EndTime|Desc
+Hall2|StartDate|EndDate|StartTime|EndTime|Desc
+Hall3|StartDate|EndDate|StartTime|EndTime|Desc
