@@ -1,1 +1,3 @@
-LogID|HallID|StartDate|EndDate|StartTime|EndTime|
+LogID|HallID|StartDate|EndDate|StartTime|EndTime
+LogID|HallID|StartDate|EndDate|StartTime|EndTime
+LogID|HallID|StartDate|EndDate|StartTime|EndTime
